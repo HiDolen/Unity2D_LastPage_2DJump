@@ -1,5 +1,3 @@
-https://www.bilibili.com/video/BV1wr4y157b9/
-
 # Unity2D LastPage
 
 半成品，有些难度的平台跳跃游戏。
